@@ -132,18 +132,6 @@ Mi diferencial: combino el **pensamiento financiero y de negocio** de un contado
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sebastián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianEEAmayaQuiroz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF441F&icon_color=FF441F&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianEEAmayaQuiroz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF441F&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 🤝 Conectemos
 
 ¿Trabajas en una empresa que necesita transformar datos en decisiones? Me interesa explorar oportunidades en:
